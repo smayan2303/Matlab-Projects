@@ -11,7 +11,6 @@ function [ img ] = zones( img, rad )
     %          It is has the same width and height as the img parameter.
 
 
-    % TODO your code here
     %convert the image to hsv format
     hsvimg = rgb2hsv(img);
     %copy the hue channel into another variable
