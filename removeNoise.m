@@ -10,7 +10,7 @@ function [ rad ] = removeNoise( rad, n )
     %          may be used as an input argument when calling this function,
     %          but you should NOT call scan_radiation() inside of this
     %          function!
-    % TODO your code here
+ 
 
     %create a matrix of all ones and divide it by the size of the filter
     %matrix squared so each square in the matrix is equivalent and totals
