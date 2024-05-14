@@ -9,7 +9,7 @@ function [ hasTumor ] = detectTumor( brain )
     %            returns into this function. However, DO NOT call
     %            scan_brain() in the code for this function itself.
 
-    % TODO your code here
+
 
 
     % make a variable that counts the number of values above a certain
