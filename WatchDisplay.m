@@ -15,7 +15,6 @@ img = imread('dome_area.jpg');
 % After you verify that you can create the sample images from the 
 % project specs, then use the values returned by the GPS_data() function.
 
-% TODO your code here
 %call the GPS data function to get the data and scan_radiation to get a
 %radiation image
 [r,c,t] = GPS_data();
